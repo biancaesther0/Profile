@@ -1,9 +1,7 @@
-# Profile
-
 # Hello, Devs!👋
 
 ## My name is Bianca and i'm brazilian   <div align="left">
-<img src="https://github.com/biancaesther0/biancaesther0/assets/161656421/9b9be558-d048-4508-acc0-f3de3c929781" width="200px" />
+<img src="https://github.com/biancaesther0/Profile/assets/161656421/01d7453a-8149-4f26-be13-58700a6b6970" width="300px" />
 </div>
 
 
@@ -15,7 +13,7 @@
 
 
 <div align="right">
-  <img src="https://github.com/biancaesther0/biancaesther0/assets/161656421/b59827a6-83c3-450e-acdd-ea805bef9fe8" width="200px" />
+  <img src= "https://github.com/biancaesther0/Profile/assets/161656421/d29b82cc-400f-4681-b1c6-745b6e193bb3)" width="200px" />
 </div>
 
 
